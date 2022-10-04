@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CCastro626
+- 👋 Hi, I’m Curtis
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on portfolio projects
